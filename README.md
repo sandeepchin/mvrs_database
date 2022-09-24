@@ -5,8 +5,8 @@ The code in csv_sqlite.py will read a csv file and upload the contents to a tabl
 
 <b> python csv_sqlite.py </b>
 
-Once data is stored we can insert data periodically using running:
+Once data is stored we can insert data periodically by running:
 
 <b> python insert_new_data.py -i sometextfile.txt </b>
 
-where sometextfile.txt is the tab separated text file.
+where sometextfile.txt is a tab separated input file.
